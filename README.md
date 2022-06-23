@@ -20,6 +20,7 @@ pygame
 Python needs to be installed
 
 # To view game
-Run the file 2584.py!
+Run the file 2584.py
 
-[demo](https://user-images.githubusercontent.com/90172590/175300548-e357c1dd-08ef-4c88-b72d-ca29737199ba.JPG)
+# Screenshot of the game
+[Screenshot](https://user-images.githubusercontent.com/90172590/175300548-e357c1dd-08ef-4c88-b72d-ca29737199ba.JPG)
