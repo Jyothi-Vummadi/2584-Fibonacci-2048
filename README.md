@@ -14,10 +14,10 @@ College : BVRIT Hyderabad College of Engineering for Women
 Python 
 
 # Modules Used
-pygame 
+pygame : import pygame
 
 # Installation
-Python needs to be installed
+Python needs to be installed 
 
 # To view game
 Run the file 2584.py
